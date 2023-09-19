@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62.511" height="46.883" viewBox="0 0 62.511 46.883">
+  <g id="credit-cards" transform="translate(0)">
+    <path id="Path" d="M0,3.907V35.162a3.906,3.906,0,0,0,3.907,3.907H50.79A3.906,3.906,0,0,0,54.7,35.162V3.907A3.906,3.906,0,0,0,50.79,0H3.907A3.906,3.906,0,0,0,0,3.907Z" transform="translate(0)" fill="#0084f4"/>
+    <path id="Path-2" data-name="Path" d="M0,3.907V35.162H50.79V0H3.907A3.906,3.906,0,0,0,0,3.907Z" transform="translate(3.907 3.907)" fill="#0c35e2"/>
+    <path id="Path-3" data-name="Path" d="M3.907,39.069H50.79A3.906,3.906,0,0,0,54.7,35.162V3.907A3.906,3.906,0,0,0,50.79,0H3.907A3.906,3.906,0,0,0,0,3.907V35.162A3.906,3.906,0,0,0,3.907,39.069Z" transform="translate(7.814 7.814)" fill="#02d3eb"/>
+    <path id="Path-4" data-name="Path" d="M54.7,0H0V7.814H54.7Z" transform="translate(7.814 17.581)" fill="#deeee9"/>
+    <g id="Group" transform="translate(15.628 35.162)">
+      <path id="Path-5" data-name="Path" d="M5.86,0H0V3.907H5.86Z" transform="translate(33.209)" fill="#fff"/>
+      <path id="Path-6" data-name="Path" d="M7.814,0H0V3.907H7.814Z" transform="translate(21.488)" fill="#fff"/>
+      <path id="Path-7" data-name="Path" d="M7.814,0H0V3.907H7.814Z" transform="translate(9.767)" fill="#fff"/>
+      <path id="Path-8" data-name="Path" d="M5.86,0H0V3.907H5.86Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

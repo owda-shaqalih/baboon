@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62.394" height="45.676" viewBox="0 0 62.394 45.676">
+  <g id="delivery-truck" transform="translate(0)">
+    <path id="Path" d="M8.225,0H21.108V23.35H0V12.84L2.462,4.332A6,6,0,0,1,8.225,0" transform="translate(0.988 11.723)" fill="#0c35e2"/>
+    <path id="Path-2" data-name="Path" d="M0,9.8,2.194,2.216A3.087,3.087,0,0,1,5.143,0h9.951V9.8Z" transform="translate(4.07 14.655)" fill="#84dbff"/>
+    <path id="Path-3" data-name="Path" d="M0,9.8H15.1V0Z" transform="translate(4.067 14.651)" fill="#cdd6e0"/>
+    <path id="Path-4" data-name="Path" d="M0,9.8,2.194,2.216A3.087,3.087,0,0,1,5.143,0h9.951Z" transform="translate(4.07 14.655)" fill="#f2f2f2"/>
+    <path id="Path-5" data-name="Path" d="M36.4,0H3.9A3.9,3.9,0,0,0,0,3.9V35.072H40.3V3.9A3.9,3.9,0,0,0,36.4,0" transform="translate(22.096)" fill="#02d3eb"/>
+    <path id="Path-6" data-name="Path" d="M0,0V10.3L1.508,8.8l1.58,1.581L4.667,8.8l1.579,1.581L7.829,8.8l1.6,1.581L11.007,8.8l1.526,1.526V0Z" transform="translate(35.983 0.007)" fill="#f2f2f2"/>
+    <path id="Path-7" data-name="Path" d="M0,4.575V8.981H62.389V4.575H55.877a8.934,8.934,0,0,0-15.6,0H19.327a8.922,8.922,0,0,0-15.583,0Z" transform="translate(0 30.495)" fill="#334a5e"/>
+    <path id="Path-8" data-name="Path" d="M0,6.227A6.226,6.226,0,1,0,6.227,0,6.227,6.227,0,0,0,0,6.227" transform="translate(5.316 33.222)" fill="#40596b"/>
+    <path id="Path-9" data-name="Path" d="M0,2.5A2.5,2.5,0,1,0,2.5,0,2.5,2.5,0,0,0,0,2.5" transform="translate(9.04 36.948)" fill="#acb3ba"/>
+    <path id="Path-10" data-name="Path" d="M0,6.227A6.227,6.227,0,1,0,6.227,0,6.228,6.228,0,0,0,0,6.227" transform="translate(41.856 33.222)" fill="#40596b"/>
+    <path id="Path-11" data-name="Path" d="M0,2.5A2.5,2.5,0,1,0,2.5,0,2.5,2.5,0,0,0,0,2.5" transform="translate(45.583 36.948)" fill="#acb3ba"/>
+  </g>
+</svg>
